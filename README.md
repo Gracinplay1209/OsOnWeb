@@ -1,6 +1,6 @@
 # Lumi OS
 
-Lumi OS is a React-based online OS, with many different features, letting the user interact locally, or on a server.
+OsOnWeb is a React-based online OS (made with lumi os), with many different features, letting the user interact locally, or on a server.
 
 <img src="./images/Banner.png"
      alt="Banner"
